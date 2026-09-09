@@ -1,2 +1,2 @@
 # cticket-manual-qa-testing
-Manual QA testing project for the CTicket ticketing platform, covering requirements, test scenarios, functional test cases, traceability, and test execution results.
+Designed and executed manual functional test coverage for the CTicket ticketing platform, creating business requirements,test scenarios, and detailed test cases across authentication, event browsing, ticket purchasing, payment, invoice, refund, account management, and language functionality.
